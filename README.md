@@ -1,3 +1,3 @@
-## DevOps Project for Beginners   
+## GHA Importer Demo  
 
 Demo project
